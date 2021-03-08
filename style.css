@@ -9,15 +9,14 @@ body{
 .titulo{
     font-size: 50px;;
 }
-
+.topicos{
+    font-size: 30px;
+    font-style: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 .para-2{
     color: black;
     text-align: center;
-}
-
-strong{
-    text-align: center;
-    color: black;
 }
 
 h1{
@@ -26,7 +25,16 @@ h1{
     border: 10px solid black;
     padding: 100px;
     margin: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: initial;
+}
+h2{
+    font-size: 40px;
+    font-style: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 p{
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: initial;
 }
