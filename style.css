@@ -1,0 +1,32 @@
+body{
+    background-color: #ececec;
+}
+
+.banner{
+    width: 100%;
+
+}
+.titulo{
+    font-size: 50px;;
+}
+
+.para-2{
+    color: black;
+    text-align: center;
+}
+
+strong{
+    text-align: center;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    border: 10px solid black;
+    padding: 100px;
+    margin: 100px;
+}
+p{
+    text-align: center;
+}
