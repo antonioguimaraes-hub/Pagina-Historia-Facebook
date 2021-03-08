@@ -6,6 +6,10 @@ body{
     width: 100%;
 
 }
+.textos{
+    background-color: #cccccc;
+    padding: 30px;
+}
 .titulo{
     font-size: 50px;;
 }
@@ -21,14 +25,13 @@ body{
 
 h1{
     text-align: center;
-    color: black;
-    border: 10px solid black;
-    padding: 100px;
-    margin: 100px;
+    padding: 30px;
+    margin: 10px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: initial;
 }
 h2{
+    text-align: center;
     font-size: 40px;
     font-style: initial;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -37,4 +40,7 @@ p{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: initial;
+}
+.listas{
+    background-color: #cccccc;
 }
