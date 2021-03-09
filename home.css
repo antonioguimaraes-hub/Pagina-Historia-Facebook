@@ -1,0 +1,17 @@
+header {
+    background: #bbbbbb;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
