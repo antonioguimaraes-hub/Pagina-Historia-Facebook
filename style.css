@@ -22,19 +22,15 @@ body{
     color: black;
     text-align: center;
 }
-
-h1{
+.titulo-principal{
+    padding-left: 20px;
+}
+.titulo{
     text-align: center;
     padding: 30px;
     margin: 10px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: initial;
-}
-h2{
-    text-align: center;
-    font-size: 40px;
-    font-style: initial;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 p{
     text-align: center;
@@ -43,4 +39,15 @@ p{
 }
 .listas{
     background-color: #cccccc;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 18%;
+}
+.imagem-rede{
+    width: 50%;
 }
