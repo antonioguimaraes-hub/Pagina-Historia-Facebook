@@ -28,3 +28,22 @@ nav a {
     text-decoration: none;
     font-family: 'Arial Narrow Bold', sans-serif;
 }
+
+.lista-topicos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+.lista-topicos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    border: solid black 3px;
+    border-radius: 25px;
+    margin: 0 1%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
