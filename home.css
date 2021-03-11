@@ -29,6 +29,9 @@ nav a {
     font-family: 'Arial Narrow Bold', sans-serif;
 }
 
+nav a:hover {
+    color: blue;
+}
 .lista-topicos {
     width: 940px;
     margin: 0 auto;
