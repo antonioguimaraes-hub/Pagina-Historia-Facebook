@@ -50,3 +50,12 @@ nav a:hover {
     padding: 30px 20px;
     box-sizing: border-box;
 }
+
+.lista-topicos li:hover{
+    border-color: blue;
+    font-size: 20px;
+}
+
+.lista-topicos li:active {
+    border-color:red;
+}
