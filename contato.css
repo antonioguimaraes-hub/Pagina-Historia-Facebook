@@ -1,0 +1,76 @@
+header {
+    background: #bbbbbb;
+}
+
+.caixa {
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+nav {
+    top: 135px;
+    right: 0px;
+    position: absolute;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+nav a:hover {
+    color: blue;
+}
+.lista-topicos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+.lista-topicos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    border: solid black 3px;
+    border-radius: 25px;
+    margin: 0 1%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.lista-topicos li:hover{
+    border-color: blue;
+    font-size: 20px;
+}
+
+.lista-topicos li:active {
+    border-color:red;
+}
+
+footer {
+    text-align: center;
+    background-color: #bbbbbb;
+    color: blue;
+}
+footer p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    padding: 0 0 80px 0;
+}
+footer img{
+    margin: 80px 0 10px 0;
+}
