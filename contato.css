@@ -74,3 +74,40 @@ footer p{
 footer img{
     margin: 80px 0 10px 0;
 }
+main {
+    width: 940px;
+    margin: 40px auto;
+}
+form label, form legend{
+    display: block;
+    font-size: 20px;
+    margin: 20px 0 10px;
+}
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 20px 25px;
+    width: 50%;
+}
+.checkbox {
+    margin: 20px 0;
+}
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border: none;
+    border-radius: 8px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background-color: rgb(70, 70, 255);
+    transform: scale(1.2);
+}
+
+/* #region */
