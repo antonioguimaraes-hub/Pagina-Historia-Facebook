@@ -125,4 +125,37 @@ thead {
     border: 1px solid black;
     padding: 15px 8px;
 }
-/* #region */
+/* refazendo estilo da primeira página */
+
+.imagem-sobre {
+    width: 180px;
+    float: left;
+}
+
+.textos{
+    padding: 30px;
+}
+.titulo {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    margin: 20px 0;
+}
+.topicos{
+    font-size: 30px;
+    font-style: initial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 20px 0;
+}
+p{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: initial;
+}
+
+.para-2{
+    padding: 10px 0;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: initial;
+}
