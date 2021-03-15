@@ -171,3 +171,8 @@ p{
     margin: 0 0 2em;
     text-align: center;
 }
+
+.video {
+    width: 550px;
+    margin: 1em auto;
+}
