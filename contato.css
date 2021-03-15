@@ -1,6 +1,9 @@
 header {
     background: #bbbbbb;
 }
+.banner {
+    width: 100%;
+}
 
 .caixa {
     width: 940px;
@@ -158,4 +161,13 @@ p{
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: initial;
+}
+
+.mapa {
+    padding: 3em 0;
+}
+
+.mapa p {
+    margin: 0 0 2em;
+    text-align: center;
 }
