@@ -109,5 +109,20 @@ form label, form legend{
     background-color: rgb(70, 70, 255);
     transform: scale(1.2);
 }
+#tabela{
+    margin: 20px 0 40px;
+    border: 1px solid black
+}
 
+thead {
+    background: #414141;
+    color: white;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+#tabela-rodape td{
+    border: 1px solid black;
+    padding: 15px 8px;
+}
 /* #region */
