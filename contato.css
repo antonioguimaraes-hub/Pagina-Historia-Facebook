@@ -188,6 +188,8 @@ p{
 .imagem-rede {
     width: 60%;
     opacity: 0.3;
+    box-shadow: 10px 10px 20px 5px black;
+    /* eixo x y transparencia intensidade da borda*/
 }
 .imagem-rede:hover {
 opacity: 1;
