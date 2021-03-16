@@ -150,6 +150,12 @@ thead {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 1.5;
 }
+/* como pegar elememtos unicos para tratar aquele conteudo exemplo pegar apenas a primeira frase e o resto 
+seguir normal conforme codificado
+.topicos:first-child {
+}
+.topicos:nth-child(2n) numero par dentro do parenteses pega par e numero impar pega impar
+*/
 p{
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
