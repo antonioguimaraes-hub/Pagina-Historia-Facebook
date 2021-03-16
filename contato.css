@@ -148,7 +148,7 @@ thead {
     font-size: 30px;
     font-style: initial;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin: 20px 0;
+    line-height: 1.5;
 }
 p{
     font-size: 20px;
@@ -174,5 +174,19 @@ p{
 
 .video {
     width: 550px;
-    margin: 1em auto;
+    margin: 2em auto;
+}
+
+.imagem-rede {
+    width: 60%;
+}
+.conteudo {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-continuada{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
 }
