@@ -79,7 +79,7 @@ footer img{
 }
 main {
     width: 940px;
-    margin: 40px auto;
+    margin: 0 auto;
 }
 form label, form legend{
     display: block;
@@ -136,7 +136,8 @@ thead {
 }
 
 .textos{
-    padding: 30px;
+    padding: 3em 0;
+    background: #fefefe;
 }
 .titulo {
     text-align: center;
@@ -181,10 +182,16 @@ p{
 .video {
     width: 550px;
     margin: 2em auto;
+    
 }
 
 .imagem-rede {
     width: 60%;
+    opacity: 0.3;
+}
+.imagem-rede:hover {
+opacity: 1;
+transition: 400ms;
 }
 .conteudo {
     width: 640px;
